@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_notepad_blue">#A9D9FF</color>
+    <color name="background_note_blue">#58B6FF</color>
+    <color name="background_toolbar_blue">#6FC0FF</color>
+
+    <color name="background_notepad_yellow">#FFF191</color>
+    <color name="background_note_yellow">#FFD70D</color>
+    <color name="background_toolbar_yellow">#FFE667</color>
+
+    <color name="background_notepad_green">#B6FF81</color>
+    <color name="background_note_green">#59FF2B</color>
+    <color name="background_toolbar_green">#7AFF4A</color>
+
+    <color name="background_notepad_gray">#777777</color>
+    <color name="background_note_gray">#434343</color>
+    <color name="background_toolbar_gray">#5C5C5C</color>
+
+    <color name="background_notepad_pink">#E396FF</color>
+    <color name="background_note_pink">#FF2FEA</color>
+    <color name="background_toolbar_pink">#F276FF</color>
+</resources>
